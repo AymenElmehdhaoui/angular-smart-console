@@ -73,4 +73,4 @@ $ npm run lint
 
 ## License
 
-MIT © [AymenElmehdhaoui](mailto:aymen.elmehdhaoui@tritux.com)
+MIT © [AymenElmehdhaoui](mailto:elmehdhaoui.aymen@gmail.com)
