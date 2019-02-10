@@ -1,0 +1,16 @@
+{
+  "name": "ngx-smart-console",
+  "description": "ngx-smart-console is an angular service that provide all console functions. Hower the goal of this service is to disable all console functions in production without infecting the global console variable.",
+  "license": "MIT",
+  "Keywords": ["@angular", "Console", "Production", "MIT"],
+  "homepage": "https://github.com/AymenElmehdhaoui/angular-smart-console",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AymenElmehdhaoui/angular-smart-console"
+  },
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}

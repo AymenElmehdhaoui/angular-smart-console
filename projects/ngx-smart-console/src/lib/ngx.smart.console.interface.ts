@@ -1,0 +1,22 @@
+export interface NgxSmartConsoleInterface {
+    assert(...args);
+    clear();
+    count(...args);
+    debug(...args);
+    time(...args);
+    timeEnd(...args);
+    trace(...args);
+    dir(...args);
+    dirxml(arg);
+    error(...args);
+    group(...args);
+    groupCollapsed(...args);
+    groupEnd();
+    info(...args);
+    log(...args);
+    profile(...args);
+    profileEnd(...args);
+    table(...args);
+    warn(...args);
+    exception(...args);
+}
